@@ -5,7 +5,6 @@
 		"Textures": [
 			"l2d300094.2048/texture_00.png"
 		],
-		"Physics": "l2d200037.physics3.json",
 		"Motions": {
 			"Anger": [
 				{
