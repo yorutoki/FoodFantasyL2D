@@ -1,0 +1,74 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "l2d200048.moc3",
+		"Textures": [
+			"l2d200048.2048/texture_00.png"
+		],
+		"Motions": {
+			"Anger": [
+				{
+					"File": "anger.motion3.json"
+				}
+			],
+			"Awkward": [
+				{
+					"File": "awkward.motion3.json"
+				}
+			],
+			"Doubt": [
+				{
+					"File": "doubt.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "idle.motion3.json"
+				}
+			],
+			"Sad": [
+				{
+					"File": "sad.motion3.json"
+				}
+			],
+			"Smile": [
+				{
+					"File": "smile.motion3.json"
+				}
+			],
+			"Speechless": [
+				{
+					"File": "speechless.motion3.json"
+				}
+			],
+			"Surprise": [
+				{
+					"File": "surprise.motion3.json"
+				}
+			],
+			"Tired": [
+				{
+					"File": "tired.motion3.json"
+				}
+			],
+			"Worry": [
+				{
+					"File": "worry.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

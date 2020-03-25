@@ -1,0 +1,1062 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup6",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup6",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "Param172",
+			"GroupId": "ParamGroup6",
+			"Name": "全体のX"
+		},
+		{
+			"Id": "Param173",
+			"GroupId": "ParamGroup6",
+			"Name": "全体のY"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "ParamGroup6",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup3",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup3",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "ParamGroup2",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "Param74",
+			"GroupId": "ParamGroup2",
+			"Name": "左目vow3一眼泪"
+		},
+		{
+			"Id": "Param73",
+			"GroupId": "ParamGroup2",
+			"Name": "左目"
+		},
+		{
+			"Id": "Param72",
+			"GroupId": "ParamGroup2",
+			"Name": "左目vow3階段二"
+		},
+		{
+			"Id": "Param200",
+			"GroupId": "ParamGroup2",
+			"Name": "左目vow3二眼泪"
+		},
+		{
+			"Id": "Param201",
+			"GroupId": "ParamGroup2",
+			"Name": "左目vow3二眼泪"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "ParamGroup2",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "Param76",
+			"GroupId": "ParamGroup2",
+			"Name": "右目vow3一眼泪"
+		},
+		{
+			"Id": "Param75",
+			"GroupId": "ParamGroup2",
+			"Name": "右目"
+		},
+		{
+			"Id": "Param77",
+			"GroupId": "ParamGroup2",
+			"Name": "右目vow3階段二"
+		},
+		{
+			"Id": "Param198",
+			"GroupId": "ParamGroup2",
+			"Name": "右目vow3二眼泪"
+		},
+		{
+			"Id": "Param199",
+			"GroupId": "ParamGroup2",
+			"Name": "右目vow3二眼泪"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup2",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup2",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup5",
+			"Name": "touch2紅暈"
+		},
+		{
+			"Id": "Param78",
+			"GroupId": "ParamGroup5",
+			"Name": "vow3紅暈"
+		},
+		{
+			"Id": "Param79",
+			"GroupId": "ParamGroup5",
+			"Name": "vow2二階紅暈"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup4",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup4",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "Param80",
+			"GroupId": "ParamGroup4",
+			"Name": "流口水"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup7",
+			"Name": "左上腕の回転"
+		},
+		{
+			"Id": "Param207",
+			"GroupId": "ParamGroup7",
+			"Name": "左腕の上下"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup7",
+			"Name": "左下腕の回転"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup7",
+			"Name": "左手の回転"
+		},
+		{
+			"Id": "Param209",
+			"GroupId": "ParamGroup7",
+			"Name": "左手 形"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup7",
+			"Name": "左指"
+		},
+		{
+			"Id": "Param206",
+			"GroupId": "ParamGroup7",
+			"Name": "武器x"
+		},
+		{
+			"Id": "Param202",
+			"GroupId": "ParamGroup7",
+			"Name": "武器 Y"
+		},
+		{
+			"Id": "Param208",
+			"GroupId": "ParamGroup7",
+			"Name": "武器の角度"
+		},
+		{
+			"Id": "Param30",
+			"GroupId": "ParamGroup7",
+			"Name": "鑰匙外發光"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup8",
+			"Name": "右上腕の回転"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup8",
+			"Name": "右下腕の回転"
+		},
+		{
+			"Id": "Param204",
+			"GroupId": "ParamGroup8",
+			"Name": "右下腕"
+		},
+		{
+			"Id": "Param203",
+			"GroupId": "ParamGroup8",
+			"Name": "右下腕_02"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup8",
+			"Name": "右手_01"
+		},
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup8",
+			"Name": "右手_02"
+		},
+		{
+			"Id": "Param205",
+			"GroupId": "ParamGroup8",
+			"Name": "右手_03"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup8",
+			"Name": "右手_01の回転"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup8",
+			"Name": "右手_02の回転"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup8",
+			"Name": "下垂右手の回転"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup8",
+			"Name": "右指_01"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup8",
+			"Name": "右指_02"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup8",
+			"Name": "右指_03"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup9",
+			"Name": "左大腿の回転"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup9",
+			"Name": "左小腿の回転"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup9",
+			"Name": "左足の回転"
+		},
+		{
+			"Id": "Param21",
+			"GroupId": "ParamGroup9",
+			"Name": "珠簾_03"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup10",
+			"Name": "右大腿の回転"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup10",
+			"Name": "右小腿の回転"
+		},
+		{
+			"Id": "Param20",
+			"GroupId": "ParamGroup10",
+			"Name": "右足の回転"
+		},
+		{
+			"Id": "Param35",
+			"GroupId": "ParamGroup36",
+			"Name": "翅膀の回転"
+		},
+		{
+			"Id": "Param174",
+			"GroupId": "ParamGroup36",
+			"Name": "翅膀の回転"
+		},
+		{
+			"Id": "Param25",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_01"
+		},
+		{
+			"Id": "Param28",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_01"
+		},
+		{
+			"Id": "Param29",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_02"
+		},
+		{
+			"Id": "Param109",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_01"
+		},
+		{
+			"Id": "Param110",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_03"
+		},
+		{
+			"Id": "Param111",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_03"
+		},
+		{
+			"Id": "Param194",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪影_02"
+		},
+		{
+			"Id": "Param195",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪影_02"
+		},
+		{
+			"Id": "Param112",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_04"
+		},
+		{
+			"Id": "Param113",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_04"
+		},
+		{
+			"Id": "Param196",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪影_03"
+		},
+		{
+			"Id": "Param197",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪影_03"
+		},
+		{
+			"Id": "Param114",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_05"
+		},
+		{
+			"Id": "Param115",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_05"
+		},
+		{
+			"Id": "Param192",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪影_01"
+		},
+		{
+			"Id": "Param193",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪影_01"
+		},
+		{
+			"Id": "Param116",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_06"
+		},
+		{
+			"Id": "Param117",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_06"
+		},
+		{
+			"Id": "Param118",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_07"
+		},
+		{
+			"Id": "Param119",
+			"GroupId": "ParamGroup20",
+			"Name": "前髪_07"
+		},
+		{
+			"Id": "Param120",
+			"GroupId": "ParamGroup21",
+			"Name": "前髪_08"
+		},
+		{
+			"Id": "Param175",
+			"GroupId": "ParamGroup21",
+			"Name": "前髪_08"
+		},
+		{
+			"Id": "Param176",
+			"GroupId": "ParamGroup21",
+			"Name": "後髪_01"
+		},
+		{
+			"Id": "Param177",
+			"GroupId": "ParamGroup21",
+			"Name": "後髪_01"
+		},
+		{
+			"Id": "Param178",
+			"GroupId": "ParamGroup21",
+			"Name": "後髪_02"
+		},
+		{
+			"Id": "Param179",
+			"GroupId": "ParamGroup21",
+			"Name": "後髪_02"
+		},
+		{
+			"Id": "Param180",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_01"
+		},
+		{
+			"Id": "Param181",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_01"
+		},
+		{
+			"Id": "Param182",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_02"
+		},
+		{
+			"Id": "Param183",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_02"
+		},
+		{
+			"Id": "Param184",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_03"
+		},
+		{
+			"Id": "Param185",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_03"
+		},
+		{
+			"Id": "Param186",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_04"
+		},
+		{
+			"Id": "Param187",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_04"
+		},
+		{
+			"Id": "Param188",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_05"
+		},
+		{
+			"Id": "Param189",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_05"
+		},
+		{
+			"Id": "Param190",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_06"
+		},
+		{
+			"Id": "Param191",
+			"GroupId": "ParamGroup22",
+			"Name": "呆毛_06"
+		},
+		{
+			"Id": "Param_Angle_Rotation34",
+			"GroupId": "ParamGroup18",
+			"Name": "[0]鳥の毛_01の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation37",
+			"GroupId": "ParamGroup18",
+			"Name": "[1]鳥の毛_01の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation60",
+			"GroupId": "ParamGroup18",
+			"Name": "[2]鳥の毛_01の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation61",
+			"GroupId": "ParamGroup19",
+			"Name": "[0]鳥の毛_02の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation62",
+			"GroupId": "ParamGroup19",
+			"Name": "[1]鳥の毛_02の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation63",
+			"GroupId": "ParamGroup19",
+			"Name": "[2]鳥の毛_02の回転"
+		},
+		{
+			"Id": "Param31",
+			"GroupId": "ParamGroup13",
+			"Name": "珠子"
+		},
+		{
+			"Id": "Param32",
+			"GroupId": "ParamGroup13",
+			"Name": "蝴蝶結_01の回転"
+		},
+		{
+			"Id": "Param33",
+			"GroupId": "ParamGroup13",
+			"Name": "蝴蝶結_03の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation42",
+			"GroupId": "ParamGroup14",
+			"Name": "[0]飄帶_01の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation43",
+			"GroupId": "ParamGroup14",
+			"Name": "[1]飄帶_01の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation44",
+			"GroupId": "ParamGroup14",
+			"Name": "[2]飄帶_01の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation45",
+			"GroupId": "ParamGroup14",
+			"Name": "[3]飄帶_01の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation48",
+			"GroupId": "ParamGroup15",
+			"Name": "[0]飄帶_02の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation49",
+			"GroupId": "ParamGroup15",
+			"Name": "[1]飄帶_02の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation50",
+			"GroupId": "ParamGroup15",
+			"Name": "[2]飄帶_02の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation52",
+			"GroupId": "ParamGroup16",
+			"Name": "[0]飄帶_01 影の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation53",
+			"GroupId": "ParamGroup16",
+			"Name": "[1]飄帶_01 影の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation54",
+			"GroupId": "ParamGroup16",
+			"Name": "[2]飄帶_01 影の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation55",
+			"GroupId": "ParamGroup16",
+			"Name": "[3]飄帶_01 影の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation57",
+			"GroupId": "ParamGroup17",
+			"Name": "[0]飄帶_02 影の回転2"
+		},
+		{
+			"Id": "Param_Angle_Rotation58",
+			"GroupId": "ParamGroup17",
+			"Name": "[1]飄帶_02 影の回転2"
+		},
+		{
+			"Id": "Param_Angle_Rotation59",
+			"GroupId": "ParamGroup17",
+			"Name": "[2]飄帶_02 影の回転2"
+		},
+		{
+			"Id": "Param22",
+			"GroupId": "ParamGroup11",
+			"Name": "花_01"
+		},
+		{
+			"Id": "Param23",
+			"GroupId": "ParamGroup11",
+			"Name": "花_02"
+		},
+		{
+			"Id": "Param34",
+			"GroupId": "ParamGroup11",
+			"Name": "花_03"
+		},
+		{
+			"Id": "Param24",
+			"GroupId": "ParamGroup11",
+			"Name": "珠簾_01 Y"
+		},
+		{
+			"Id": "Param26",
+			"GroupId": "ParamGroup11",
+			"Name": "指針の回転"
+		},
+		{
+			"Id": "Param27",
+			"GroupId": "ParamGroup11",
+			"Name": "時鐘"
+		},
+		{
+			"Id": "Param_Angle_Rotation115",
+			"GroupId": "ParamGroup43",
+			"Name": "[0]布の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation135",
+			"GroupId": "ParamGroup43",
+			"Name": "[1]布の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation136",
+			"GroupId": "ParamGroup43",
+			"Name": "[2]布の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation35",
+			"GroupId": "ParamGroup12",
+			"Name": "[0]珠簾_02の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation36",
+			"GroupId": "ParamGroup12",
+			"Name": "[1]珠簾_02の回転"
+		},
+		{
+			"Id": "Param_Angle_Rotation38",
+			"GroupId": "ParamGroup12",
+			"Name": "[2]珠簾_02の回転"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "体"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "頭"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "眉"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "目"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "紅暈"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "口"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "左腕"
+		},
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "右腕"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "左足"
+		},
+		{
+			"Id": "ParamGroup10",
+			"GroupId": "",
+			"Name": "右足"
+		},
+		{
+			"Id": "ParamGroup36",
+			"GroupId": "",
+			"Name": "翅膀"
+		},
+		{
+			"Id": "ParamGroup20",
+			"GroupId": "",
+			"Name": "前髪"
+		},
+		{
+			"Id": "ParamGroup21",
+			"GroupId": "",
+			"Name": "後髪"
+		},
+		{
+			"Id": "ParamGroup22",
+			"GroupId": "",
+			"Name": "呆毛"
+		},
+		{
+			"Id": "ParamGroup18",
+			"GroupId": "",
+			"Name": "鳥の毛_01の回転"
+		},
+		{
+			"Id": "ParamGroup19",
+			"GroupId": "",
+			"Name": "鳥の毛_02の回転"
+		},
+		{
+			"Id": "ParamGroup13",
+			"GroupId": "",
+			"Name": "胸前裝飾"
+		},
+		{
+			"Id": "ParamGroup14",
+			"GroupId": "",
+			"Name": "飄帶_01の回転"
+		},
+		{
+			"Id": "ParamGroup15",
+			"GroupId": "",
+			"Name": "飄帶_02の回転"
+		},
+		{
+			"Id": "ParamGroup16",
+			"GroupId": "",
+			"Name": "飄帶_01 影の回転"
+		},
+		{
+			"Id": "ParamGroup17",
+			"GroupId": "",
+			"Name": "飄帶_02 影の回転"
+		},
+		{
+			"Id": "ParamGroup11",
+			"GroupId": "",
+			"Name": "腰飾"
+		},
+		{
+			"Id": "ParamGroup43",
+			"GroupId": "",
+			"Name": "布の回転"
+		},
+		{
+			"Id": "ParamGroup12",
+			"GroupId": "",
+			"Name": "珠簾_02の回転"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "人物"
+		},
+		{
+			"Id": "Part33",
+			"Name": "体"
+		},
+		{
+			"Id": "Part42",
+			"Name": "翅膀"
+		},
+		{
+			"Id": "Part35",
+			"Name": "左腕"
+		},
+		{
+			"Id": "Part34",
+			"Name": "胸前裝飾"
+		},
+		{
+			"Id": "Part36",
+			"Name": "武器"
+		},
+		{
+			"Id": "Part37",
+			"Name": "腰飾"
+		},
+		{
+			"Id": "Part38",
+			"Name": "下体"
+		},
+		{
+			"Id": "Part5",
+			"Name": "右手"
+		},
+		{
+			"Id": "Part6",
+			"Name": "頭"
+		},
+		{
+			"Id": "Part39",
+			"Name": "自然下垂右腕"
+		},
+		{
+			"Id": "Part41",
+			"Name": "後髪"
+		},
+		{
+			"Id": "ArtMesh133_Skinning2",
+			"Name": "蝴蝶結飄帶_01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh133_Skinning",
+			"Name": "蝴蝶結飄帶_01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh134_Skinning",
+			"Name": "蝴蝶結飄帶_02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh65_Skinning",
+			"Name": "蝴蝶結飄帶_01 影(スキニング)"
+		},
+		{
+			"Id": "ArtMesh73_Skinning",
+			"Name": "蝴蝶結飄帶_02 影(スキニング)"
+		},
+		{
+			"Id": "ArtMesh143_Skinning2",
+			"Name": "珠簾_02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh143_Skinning",
+			"Name": "珠簾_02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh146_Skinning",
+			"Name": "布(スキニング)"
+		},
+		{
+			"Id": "ArtMesh27_Skinning",
+			"Name": "右指_03(スキニング)"
+		},
+		{
+			"Id": "Part7",
+			"Name": "呆毛"
+		},
+		{
+			"Id": "Part8",
+			"Name": "帽子"
+		},
+		{
+			"Id": "Part24",
+			"Name": "loop touch3"
+		},
+		{
+			"Id": "Part32",
+			"Name": "前髪"
+		},
+		{
+			"Id": "Part40",
+			"Name": "自然下垂右手"
+		},
+		{
+			"Id": "ArtMesh165_Skinning",
+			"Name": "後髪_01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh166_Skinning",
+			"Name": "後髪_02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh28_Skinning",
+			"Name": "呆毛_01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh29_Skinning",
+			"Name": "呆毛_02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh30_Skinning",
+			"Name": "呆毛_03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh31_Skinning",
+			"Name": "呆毛_04(スキニング)"
+		},
+		{
+			"Id": "ArtMesh32_Skinning",
+			"Name": "呆毛_05(スキニング)"
+		},
+		{
+			"Id": "ArtMesh33_Skinning",
+			"Name": "呆毛_06(スキニング)"
+		},
+		{
+			"Id": "ArtMesh34_Skinning",
+			"Name": "鳥の毛_01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh35_Skinning",
+			"Name": "鳥の毛_02(スキニング)"
+		},
+		{
+			"Id": "Part17",
+			"Name": "vow3階段二眼泪"
+		},
+		{
+			"Id": "Part18",
+			"Name": "vow3階段二擠眼睛"
+		},
+		{
+			"Id": "Part26",
+			"Name": "touch3左目"
+		},
+		{
+			"Id": "Part27",
+			"Name": "touch3右目"
+		},
+		{
+			"Id": "Part28",
+			"Name": "touch3眉"
+		},
+		{
+			"Id": "Part29",
+			"Name": "touch3口"
+		},
+		{
+			"Id": "ArtMesh116_Skinning",
+			"Name": "前髪_01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh117_Skinning",
+			"Name": "前髪_02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh118_Skinning",
+			"Name": "前髪_03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh119_Skinning",
+			"Name": "前髪_04(スキニング)"
+		},
+		{
+			"Id": "ArtMesh120_Skinning",
+			"Name": "前髪_05(スキニング)"
+		},
+		{
+			"Id": "ArtMesh121_Skinning",
+			"Name": "前髪_06(スキニング)"
+		},
+		{
+			"Id": "ArtMesh122_Skinning",
+			"Name": "前髪_07(スキニング)"
+		},
+		{
+			"Id": "ArtMesh123_Skinning",
+			"Name": "前髪_08(スキニング)"
+		},
+		{
+			"Id": "ArtMesh124_Skinning2",
+			"Name": "前髪影_01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh124_Skinning",
+			"Name": "前髪影_01(スキニング)"
+		},
+		{
+			"Id": "ArtMesh125_Skinning2",
+			"Name": "前髪影_02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh125_Skinning",
+			"Name": "前髪影_02(スキニング)"
+		},
+		{
+			"Id": "ArtMesh126_Skinning2",
+			"Name": "前髪影_03(スキニング)"
+		},
+		{
+			"Id": "ArtMesh126_Skinning",
+			"Name": "前髪影_03(スキニング)"
+		},
+		{
+			"Id": "Part31",
+			"Name": "touch3口1"
+		}
+	]
+}

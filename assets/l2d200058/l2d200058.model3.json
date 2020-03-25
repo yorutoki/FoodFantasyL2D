@@ -1,0 +1,80 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "l2d200058.moc3",
+		"Textures": [
+			"l2d200058.2048/texture_00.png"
+		],
+		"Physics": "l2d200058.physics3.json",
+		"Motions": {
+			"Unwilling": [
+				{
+					"File": "Unwilling.motion3.json"
+				}
+			],
+			"Anger": [
+				{
+					"File": "anger.motion3.json"
+				}
+			],
+			"Despise": [
+				{
+					"File": "despise.motion3.json"
+				}
+			],
+			"Fear": [
+				{
+					"File": "fear.motion3.json"
+				}
+			],
+			"Hate": [
+				{
+					"File": "hate.motion3.json"
+				}
+			],
+			"Idle": [
+				{
+					"File": "idle.motion3.json"
+				}
+			],
+			"Smile": [
+				{
+					"File": "smile.motion3.json"
+				}
+			],
+			"Speechless": [
+				{
+					"File": "speechless.motion3.json"
+				}
+			],
+			"Surprise": [
+				{
+					"File": "surprise.motion3.json"
+				}
+			],
+			"Worry": [
+				{
+					"File": "worry.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}

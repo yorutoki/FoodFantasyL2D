@@ -1,0 +1,71 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "L2d200199_5.moc3",
+		"Textures": [
+			"L2d200199_5.2048/texture_00.png"
+		],
+		"Physics": "L2d200199_5.physics3.json",
+		"DisplayInfo": "L2d200199_5.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "idle.motion3.json"
+				}
+			],
+			"Start": [
+				{
+					"File": "start.motion3.json"
+				}
+			],
+			"Touch1": [
+				{
+					"File": "touch1.motion3.json"
+				}
+			],
+			"Touch2": [
+				{
+					"File": "touch2.motion3.json"
+				}
+			],
+			"Touch3": [
+				{
+					"File": "touch3.motion3.json"
+				}
+			],
+			"Vow1": [
+				{
+					"File": "vow1.motion3.json"
+				}
+			],
+			"Vow2": [
+				{
+					"File": "vow2.motion3.json"
+				}
+			],
+			"Vow3": [
+				{
+					"File": "vow3.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": [
+				"ParamMouthOpenY"
+			]
+		}
+	],
+	"HitAreas": []
+}
