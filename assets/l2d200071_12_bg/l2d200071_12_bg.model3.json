@@ -1,3 +1,4 @@
+
 {
 	"Version": 3,
 	"FileReferences": {
@@ -6,6 +7,7 @@
 			"l2d200071_12.2048/texture_00.png",
 			"l2d200071_12.2048/texture_01.png"
 		],
+		"Physics": "l2d200139.physics3.json",
 		"DisplayInfo": "l2d200071_12.cdi3.json",
 		"Motions": {
 			"Idle": [

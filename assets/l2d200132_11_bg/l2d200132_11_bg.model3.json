@@ -6,7 +6,6 @@
 			"l2d200132_11.2048/texture_00.png"
 		],
 		"Physics": "l2d200132_11.physics3.json",
-		"DisplayInfo": "l2d200132_11.cdi3.json",
 		"Motions": {
 			"Idle": [
 				{
@@ -48,15 +47,15 @@
 	"Groups": [
 		{
 			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": []
-		},
-		{
-			"Target": "Parameter",
 			"Name": "LipSync",
 			"Ids": [
 				"ParamMouthOpenY"
 			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
 		}
 	],
 	"HitAreas": []

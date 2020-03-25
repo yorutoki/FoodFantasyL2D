@@ -7,7 +7,7 @@
 		],
 		"Physics": "l2d200058.physics3.json",
 		"Motions": {
-			"Unwilling": [
+			"unwilling": [
 				{
 					"File": "Unwilling.motion3.json"
 				}

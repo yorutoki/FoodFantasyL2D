@@ -5,9 +5,9 @@
 		"Fps": 30.0,
 		"Loop": true,
 		"AreBeziersRestricted": true,
-		"CurveCount": 670,
-		"TotalSegmentCount": 2580,
-		"TotalPointCount": 7878,
+		"CurveCount": 652,
+		"TotalSegmentCount": 2572,
+		"TotalPointCount": 7872,
 		"UserDataCount": 0,
 		"TotalUserDataSize": 0
 	},
@@ -6138,9 +6138,121 @@
 				0,
 				0,
 				1,
-				3.5,
+				2.3,
 				0,
-				7,
+				4.6,
+				0.2,
+				6.9,
+				0.2,
+				1,
+				6.956,
+				0.2,
+				7.011,
+				-0.2,
+				7.067,
+				-0.2,
+				1,
+				7.122,
+				-0.2,
+				7.178,
+				0.2,
+				7.233,
+				0.2,
+				1,
+				7.289,
+				0.2,
+				7.344,
+				-0.2,
+				7.4,
+				-0.2,
+				1,
+				7.456,
+				-0.2,
+				7.511,
+				0.2,
+				7.567,
+				0.2,
+				1,
+				7.622,
+				0.2,
+				7.678,
+				-0.2,
+				7.733,
+				-0.2,
+				1,
+				7.789,
+				-0.2,
+				7.844,
+				0.2,
+				7.9,
+				0.2,
+				1,
+				7.956,
+				0.2,
+				8.011,
+				-0.2,
+				8.067,
+				-0.2,
+				1,
+				8.122,
+				-0.2,
+				8.178,
+				0.2,
+				8.233,
+				0.2,
+				1,
+				8.289,
+				0.2,
+				8.344,
+				-0.2,
+				8.4,
+				-0.2,
+				1,
+				8.456,
+				-0.2,
+				8.511,
+				0.2,
+				8.567,
+				0.2,
+				1,
+				8.622,
+				0.2,
+				8.678,
+				-0.2,
+				8.733,
+				-0.2,
+				1,
+				8.789,
+				-0.2,
+				8.844,
+				0.2,
+				8.9,
+				0.2,
+				1,
+				8.956,
+				0.2,
+				9.011,
+				-0.2,
+				9.067,
+				-0.2,
+				1,
+				9.122,
+				-0.2,
+				9.178,
+				0.2,
+				9.233,
+				0.2,
+				1,
+				9.289,
+				0.2,
+				9.344,
+				0,
+				9.4,
+				0,
+				1,
+				9.767,
+				0,
+				10.133,
 				0,
 				10.5,
 				0
@@ -15670,35 +15782,14 @@
 			"Id": "Param386",
 			"Segments": [
 				0,
-				1,
-				1,
-				0.222,
-				1,
-				0.444,
-				0,
-				0.667,
 				0,
 				1,
-				3.7,
+				3.5,
 				0,
-				6.733,
+				7,
 				0,
-				9.767,
-				0,
-				1,
-				9.878,
-				0,
-				9.989,
-				1,
-				10.1,
-				1,
-				1,
-				10.233,
-				1,
-				10.367,
-				1,
 				10.5,
-				1
+				0
 			]
 		},
 		{
@@ -15706,35 +15797,14 @@
 			"Id": "Param387",
 			"Segments": [
 				0,
-				1,
-				1,
-				0.222,
-				1,
-				0.444,
-				0,
-				0.667,
 				0,
 				1,
-				3.7,
+				3.5,
 				0,
-				6.733,
+				7,
 				0,
-				9.767,
-				0,
-				1,
-				9.878,
-				0,
-				9.989,
-				1,
-				10.1,
-				1,
-				1,
-				10.233,
-				1,
-				10.367,
-				1,
 				10.5,
-				1
+				0
 			]
 		},
 		{
@@ -20962,17 +21032,6 @@
 		},
 		{
 			"Target": "PartOpacity",
-			"Id": "Part",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
 			"Id": "Part44",
 			"Segments": [
 				0,
@@ -22173,193 +22232,6 @@
 		{
 			"Target": "PartOpacity",
 			"Id": "Part39",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "Part40",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "Part41",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh208_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh207_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh206_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh205_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh204_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh203_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh202_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh201_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh200_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh199_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh168_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh2_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh158_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh169_Skinning",
-			"Segments": [
-				0,
-				1,
-				2,
-				10.5,
-				1
-			]
-		},
-		{
-			"Target": "PartOpacity",
-			"Id": "ArtMesh199_Skinning2",
 			"Segments": [
 				0,
 				1,

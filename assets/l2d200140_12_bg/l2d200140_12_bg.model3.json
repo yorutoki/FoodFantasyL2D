@@ -6,6 +6,7 @@
 			"l2d200140_12.2048/texture_00.png",
 			"l2d200140_12.2048/texture_01.png"
 		],
+		"Physics": "l2d200139.physics3.json",
 		"Motions": {
 			"Touch1": [
 				{
